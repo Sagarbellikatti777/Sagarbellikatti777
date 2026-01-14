@@ -7,12 +7,14 @@
 </div>
 
 <div align="center">
-    <h2>🚀 About Me</h2>
+    <h2> About Me</h2>
     <p>I'm an MCA student from Visvesvaraya Technological University with expertise in web development and machine learning. I specialize in Java, Python, and Cloud technologies, and I'm passionate about creating innovative solutions through coding.</p>
 </div>
 
 <div align="center">
-    <h2>🌐 Connect with Me</h2>
+    <h2>🌐<img width="169" height="148" alt="image" src="https://github.com/user-attachments/assets/f43eea2c-9848-4ea3-ad30-e94f9adaf64b" />
+![Uploading image.png…]()
+ Connect with Me</h2>
     <p>Feel free to reach out for collaborations, opportunities, or just to discuss tech!</p>
     <div>
         <a href="https://www.linkedin.com/in/sagarbellikatti">
