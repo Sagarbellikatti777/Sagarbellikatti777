@@ -1,6 +1,6 @@
 <div align="center">
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=700&lines=Hello%2C+I%27m+Sagar+Bellikatti+%7C+Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=700&lines=Hello%2C+I%27m+hi..+i'm+Sagar+%7C+Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
 </h1>
 
     <p><img src="https://raw.githubusercontent.com/sagarbellikatti/sagarbellikatti/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation Dark Mode"/></p>
