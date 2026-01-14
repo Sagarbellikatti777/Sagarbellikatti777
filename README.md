@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-    <h2><img width="68" height="48" alt="image" src="https://github.com/user-attachments/assets/f43eea2c-9848-4ea3-ad30-e94f9adaf64b" />
+    <h2><img width="28" height="38" alt="image" src="https://github.com/user-attachments/assets/f43eea2c-9848-4ea3-ad30-e94f9adaf64b" />
 ![Uploading image.png…]()
  Connect with Me</h2>
     <p>Feel free to reach out for collaborations, opportunities, or just to discuss tech!</p>
