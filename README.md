@@ -72,15 +72,6 @@
     </table>
 </div>
 
-<div align="center">
-    <h2>👾 3D Modeling + VR + AR</h2>
-    <p>I'm also into immersive tech like 3D Modeling and AR/VR. Here's a glimpse of my skills in these areas:</p>
-    <div>
-        <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
-        <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-        <img src="https://img.shields.io/badge/Maya-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="Maya"/>
-    </div>
-</div>
 
 ---
 
