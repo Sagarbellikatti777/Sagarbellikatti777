@@ -56,11 +56,7 @@
     </div>
 </div>
 
-<div align="center">
-    <h2>🎯 Projects & Contributions</h2>
-    <p>Check out my ongoing projects and recent contributions!</p>
-    <img src="https://raw.githubusercontent.com/sagarbellikatti/sagarbellikatti/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
-</div>
+
 
 <div align="center">
     <h2>📈 GitHub Stats</h2>
